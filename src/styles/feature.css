@@ -1,0 +1,50 @@
+.feature {
+  background-color: rgb(227, 198, 155);
+  padding: 10px;
+}
+.MDBCardImage {
+  height: 2px;
+  object-fit: cover;
+}
+.card1 {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+h1 {
+  text-align: center;
+}
+.card {
+  margin-top: 2rem;
+}
+.feature2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+.left {
+  text-align: center;
+  font-weight: bold;
+  padding: 3rem;
+}
+.right {
+  text-align: center;
+  background-color: blanchedalmond;
+  padding: 2rem;
+  border-radius: 30px;
+}
+.elmnt1 {
+  background-color: aliceblue;
+  border-radius: 20px;
+  height: 6rem;
+  width: 35vh;
+  margin-bottom: 1.3rem;
+  padding: 13px;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
